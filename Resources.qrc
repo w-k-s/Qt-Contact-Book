@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>contacts_150.png</file>
+    </qresource>
+</RCC>
